@@ -26,9 +26,10 @@ Exposure to poor air quality poses both short-term and long-term health risks. S
 ### Technologies Used
 
 1. Raspberry Pi Microprocessor
-2. ReactJS, Progressive Web App (PWA)
-3. Python
-4. ... add more technologies here (remember to remove this line)
+2. An Air Quality Sensor
+3. ThingSpeak API to post and fetch the air quality data.
+4. ReactJS, Progressive Web App (PWA), HTML, CSS
+5. Python, used for coding Raspberry Pi
 
 ### What sets us apart?
 
