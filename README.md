@@ -27,7 +27,7 @@ Exposure to poor air quality poses both short-term and long-term health risks. S
 
 1. Raspberry Pi Microprocessor
 2. An Air Quality Sensor
-3. ThingSpeak API to post and fetch the air quality data.
+3. An Express.JS server on RPI to post and fetch the air quality data.
 4. ReactJS, Progressive Web App (PWA), HTML, CSS
 5. Python, used for coding Raspberry Pi
 
@@ -43,4 +43,4 @@ Here's how Pyourly is a cut above similar apps in the segment:
 
 ### Offline Features of the App:
 
-Storing data locally when there is no internet connectivity, providing historical data and trends, allowing users to set up alerts for certain air quality thresholds, and offering educational content on air quality and its impact on health.
+Storing data locally when there is no internet connectivity, providing historical data and trends, allowing users to set up alerts for certain air quality thresholds, and offering educational content on air quality and its impact on health. There is also a feature which uses React Simple Maps to show a map of users' surrounding updating with real-time AQI. React Simple Maps can greatly enhance user awareness and promote environmental consciousness. By integrating this feature, users can effortlessly visualize the AQI of different locations, empowering them to make informed decisions regarding outdoor activities, travel, and health management.
