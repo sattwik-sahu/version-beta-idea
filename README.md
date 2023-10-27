@@ -17,19 +17,20 @@ Exposure to poor air quality poses both short-term and long-term health risks. S
 ### Features
 
 1. Highly sensitive and **portable** sensing system with continuous readings of Air Quality Index (AQI) throughout the day, to monitor the user's risk fo over-exposure to air pollution.
-2. Detects over-exposure and sends a warning notification to the user.
-3. Display a history of the user's surrounding AQI and analysis of the same.
-4. While the integrated sensor reads the AQI inside the room, AQI of the surroundings is fetched from [OpenWeatherMap API](https://openweathermap.org/api/air-pollution) and the comparison is displayed to the user.
+2. Detects over-exposure and sends a personable warning notification to the user, enough to alert them, but not stress them out.
+3. Display a history of the user's surrounding AQI and analysis and visualization of the same.
+4. While the integrated sensor reads the AQI inside the room, AQI of the surroundings is fetched from [OpenWeatherMap API](https://openweathermap.org/api/air-pollution) and the comparison is displayed to the user, through a graphical visualization of the surrounding area, marking the different AQIs.
 5. The integrated sensor data is synced on [Microsoft Azure Cloud](https://azure.microsoft.com/) for storage and analysis, securely, protecting the user's privacy.
-6. With the hardware, based on a **Raspberry Pi**, the UI is available as a beautiful, interactive, easy-to-use and mobile-friendly web-app, which is light to download.
+6. With the hardware, based on a **Raspberry Pi**, the UI for the software is available as a beautiful, interactive, easy-to-use and mobile-friendly web-app, which is light to download.
 
 ### Technologies Used
 
 1. Raspberry Pi Microprocessor
 2. An Air Quality Sensor
-3. ThingSpeak API to post and fetch the air quality data.
+3. **IoT** - ThingSpeak API to post and fetch the air quality data.
 4. ReactJS, Progressive Web App (PWA), HTML, CSS
 5. Python, used for coding Raspberry Pi
+6. Microsoft Azure for user authentication and storage of data.
 
 ### What sets us apart?
 
