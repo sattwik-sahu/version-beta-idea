@@ -35,10 +35,11 @@ Exposure to poor air quality poses both short-term and long-term health risks. S
 
 Here's how Pyourly is a cut above similar apps in the segment:
 
-1. **Low Latency**: This system will be of very low latency as we use very lightweight and efficient to write the app and connection. Use of caching of the data, we can significantly low the latency of the product.
-2. **Better UI/UX**: Apart from the other apps, Pyourly stands out with its interactive user interface which keeps users engaged and also informs them about the indoor and outdoor air quality and how can they get pure and good air.
+1. **Low Latency & Optimized System**: The standalone system is optimized for low latency readings to be available to the user about the air quality conditions nearby.
+2. **Better UI/UX**: Pyourly stands out with its interactive user interface which keeps users engaged and also informs them about the indoor and outdoor air quality and how can they get pure and good air.
 3. **Low Cost**: Because of the selection of the most suitable hardware i.e., Raspberry Pi and an Air Quality Sensor, we reduce the price of the product.
 4. **Accurate Measurements**: The use of quality sensors and data validation techniques to identify and eliminate erroneous or inconsistent data points, ensuring that only accurate measurements are considered.
+5. **User Privacy and Security**: The user data and history would be stored with encryption retrieved securely, without leaking and additional information about the user. Also, 2FA ensures a safe option for users to log in.
 
 ### Offline Features of the App:
 
