@@ -1,4 +1,4 @@
-# Pyourly
+# PYourly
 
 ## Efficient Air-Quality Index Monitoring System
 
@@ -48,4 +48,4 @@ Storing data locally when there is no internet connectivity, providing historica
 
 ### Our Motto
 
-With PYourly, our aim is to help users efficiently monitor their surrounding air quality and at the same time spread awareness about respiratory health issues related to air pollution, while encouraging users to pratice habits to create a future with cleaner air, healthier lungs and where each breath brings a smile to people's faces.
+With PYourly, we aim to help users efficiently monitor their surrounding air quality and spread awareness about respiratory health issues related to air pollution, while encouraging users to practice habits to create a future with cleaner air, healthier lungs and where each breath brings a smile to people's faces.
