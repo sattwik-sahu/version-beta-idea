@@ -45,3 +45,7 @@ Here's how Pyourly is a cut above similar apps in the segment:
 ### Offline Features of the App:
 
 Storing data locally when there is no internet connectivity, providing historical data and trends, allowing users to set up alerts for certain air quality thresholds, and offering educational content on air quality and its impact on health.
+
+### Our Motto
+
+With PYourly, our aim is to help users efficiently monitor their surrounding air quality and at the same time spread awareness about respiratory health issues related to air pollution, while encouraging users to pratice habits to create a future with cleaner air, healthier lungs and where each breath brings a smile to people's faces.
